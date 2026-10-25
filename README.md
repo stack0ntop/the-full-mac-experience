@@ -5,7 +5,7 @@
 
 Explore the macOS-inspired dock in your browser before installing the mod.
 
-[**▶ Open the interactive demo**](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+[**▶ Open the interactive demo**](https://stack0ntop.github.io/the-full-mac-experience/)
 
 ![Interactive dock preview](screenshots/dock.png)
 </div>
